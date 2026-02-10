@@ -6,7 +6,7 @@
 ### Insubria Information & Data for Economics  
 Department of Economics – University of Insubria
 
-Welcome to the official repository of **InsIDE Lab (Insubria Information & Data for Economics)**.  
+Welcome to the official page of **InsIDE Lab (Insubria Information & Data for Economics)**.  
 This space hosts code, educational materials, public or simulated datasets, and research projects developed by faculty, researchers, and students of the Department of Economics.
 
 ---
