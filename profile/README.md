@@ -20,12 +20,6 @@ InsIDE Lab promotes:
 ---
 
 
-## 📜 License
-* The **code** in this repository is distributed under the MIT License.
-* **Educational materials**, templates, and textual documentation are subject to the Creative Commons CC BY 4.0 license.
-
----
-
 ## 📬 Contacts
 **InsIDE Lab – Insubria Information & Data for Economics**, Department of Economics – University of Insubria  
 Reference Email: *samuele.tonati@uninsubria.it*
