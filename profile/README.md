@@ -5,8 +5,7 @@
 # InsIDE Lab | Insubria Information & Data for Economics
 **Department of Economics – University of Insubria**
 
-InsIDE Lab promotes **Open Science** and **computational tools** in economic analysis. This hub hosts research, educational materials, and datasets developed by our faculty and students.
-
+InsIDE Lab (Insubria Information & Data for Economics) provides scientific support for statistical and econometric modeling. We assist in every stage of quantitative analysis—from theoretical design and estimation to the interpretation and communication of results.
 ---
 
 ### 📂 Quick Access
