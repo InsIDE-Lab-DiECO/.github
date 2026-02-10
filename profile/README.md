@@ -16,10 +16,10 @@ InsIDE Lab promotes:
 ---
 
 ## 📂 Quick Access
-* [**research/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/research) – Lab research projects.
-* [**teaching/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/teaching) – Educational materials, exercises, and workshops.
-* [**datasets/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/datasets) – Public or simulated datasets + anonymization guidelines.
-* [**templates/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/templates) – Templates for notebooks, projects, reports, and theses.
+* [**papers/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/papers) — Lab research projects and publications.
+* [**teaching/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/teaching) — Educational materials, exercises, and workshops.
+* [**dataset/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/dataset) — Public or simulated datasets and anonymization guidelines.
+* [**templates/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/templates) — Templates for notebooks, projects, reports, and theses.
 
 --
 ## 📬 Contacts
