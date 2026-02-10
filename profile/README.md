@@ -19,37 +19,6 @@ InsIDE Lab promotes:
 
 ---
 
-## 📂 Repository Structure
-* **research/** → Lab research projects
-* **teaching/** → Educational materials, exercises, workshops
-* **datasets/** → Public or simulated datasets + anonymization guidelines
-* **templates/** → Templates for notebooks, projects, reports, and theses
-
----
-
-## 🤝 How to Contribute
-To contribute to the repository:
-1. Read the `CONTRIBUTING.md` file carefully.
-2. Create a branch dedicated to your changes.
-3. Clearly document your contribution.
-4. Open a pull request for review.
-
-All contributions must comply with the `CODE_OF_CONDUCT.md`.
-
----
-
-## 🔒 Sensitive Data
-It is **strictly prohibited** to upload:
-* Microdata containing personal information.
-* Data covered by NDAs or proprietary licenses.
-* Non-publishable material.
-
-Only use:
-* Public datasets.
-* Simulated versions.
-* Fully anonymized data (see `datasets/guidelines-anonimizzazione.md`).
-
----
 
 ## 📜 License
 * The **code** in this repository is distributed under the MIT License.
