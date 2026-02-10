@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/InsIDELab.svg" alt="InsIDE Lab Logo" width="200">
+  <img src="InsIDELab.svg" alt="InsIDE Lab Logo" width="200">
 </p>
 
 # InsIDE Lab  
