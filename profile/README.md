@@ -1,27 +1,24 @@
-# InsIDE Lab  
-### Insubria Information & Data for Economics  
-Department of Economics – University of Insubria
+<p align="center">
+  <img src="InsIDELab.svg" alt="InsIDE Lab Logo" width="180">
+</p>
 
-Welcome to the official page of **InsIDE Lab (Insubria Information & Data for Economics)**.  
-This space hosts code, educational materials, public or simulated datasets, and research projects developed by faculty, researchers, and students of the Department of Economics.
+# InsIDE Lab | Insubria Information & Data for Economics
+**Department of Economics – University of Insubria**
 
----
-
-## 🎯 Lab Mission
-InsIDE Lab promotes:
-* The use of **data**, **quantitative methods**, and **computational tools** in economic analysis.
-* **Open Science** practices and **research reproducibility**.
-* A collaborative environment for students, PhD candidates, and researchers.
+InsIDE Lab promotes **Open Science** and **computational tools** in economic analysis. This hub hosts research, educational materials, and datasets developed by our faculty and students.
 
 ---
 
-## 📂 Quick Access
-* [**papers/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/papers) — Lab research projects and publications.
-* [**teaching/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/teaching) — Educational materials, exercises, and workshops.
-* [**dataset/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/dataset) — Public or simulated datasets and anonymization guidelines.
-* [**templates/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/templates) — Templates for notebooks, projects, reports, and theses.
+### 📂 Quick Access
+| Resource | Description |
+| :--- | :--- |
+| [**📄 papers/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/papers) | Research projects and publications. |
+| [**🎓 teaching/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/teaching) | Educational materials and workshops. |
+| [**📊 dataset/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/dataset) | Public/simulated data + guidelines. |
+| [**🛠️ templates/**](https://github.com/InsIDE-Lab-DiECO/InsIDE-Lab-DiECO/tree/main/templates) | Project and thesis templates. |
 
---
-## 📬 Contacts
-**InsIDE Lab – Insubria Information & Data for Economics**, Department of Economics – University of Insubria  
-Reference Email: *samuele.tonati@uninsubria.it*
+---
+
+### 📬 Contacts
+**Reference Email:** [samuele.tonati@uninsubria.it](mailto:samuele.tonati@uninsubria.it)  
+*Promoting transparency, reproducibility, and collaboration.*
